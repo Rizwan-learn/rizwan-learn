@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hi there , my name is Rizwan Hasan. I hope you are well.
 
-<!--
-**Rizwan-learn/rizwan-learn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been in the tech indusry for over 5 years as an Network Engineer, but in 2022 I made the decistion to change course and learn software development. Since a young age I always had a passtion on learning tech and everything about it, I am finally in a point in my life were I know what I want to do in the future and that is to become a software developer.
 
-Here are some ideas to get you started:
+About me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on to do list using web packinging and JS 
+🌱 I’m currently learning to become a full stack Web development
+👯 I’m looking to collaborate on open-source projects
+💬 Ask me anything about front end development 
+📫 How to reach me: Twitter: rizwanhasan21 | LinkedIn: Rizwan Hasan | Gmail: rizwanhasan_learn@gmail.com
+😄 Pronouns: he/him
+⚡ Fun fact: I sing when I code. 
